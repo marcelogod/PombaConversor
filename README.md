@@ -1,2 +1,2 @@
 # PombaConversor
-conversor simples do plugin yEconomy para NextEconomy
+conversor simples do MYSQL do plugin yEconomy para NextEconomy
