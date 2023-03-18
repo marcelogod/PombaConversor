@@ -1,0 +1,6 @@
+name: PombaConversor
+version: '${project.version}'
+main: me.pombaconversor.PombaConversor
+depend:
+  - Vault
+  - yPlugins
